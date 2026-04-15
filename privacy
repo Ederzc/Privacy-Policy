@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 30px 20px;
+            color: #333;
+            background-color: #fff;
+        }
+        h1 {
+            font-size: 26px;
+            margin-bottom: 24px;
+            color: #222;
+        }
+        h2 {
+            font-size: 20px;
+            margin-top: 30px;
+            margin-bottom: 12px;
+            color: #222;
+        }
+        p {
+            margin: 0 0 14px 0;
+        }
+        ul {
+            margin: 10px 0;
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 6px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Privacy Policy</h1>
+
+    <p>This Privacy Policy applies to all applications developed and operated by us (hereinafter referred to as "the products and services"). Protecting users' data security and privacy is our top priority. This policy explains what data we collect and how we process it when you access and use our products and services. Our services are provided for commercial purposes.</p>
+
+    <p>Please carefully read and fully understand all terms of this policy before using our products. Your continued use constitutes your acceptance of the entire policy. If you do not agree with any part of this policy, you must stop using our products and services.</p>
+
+    <p>This policy helps you understand:</p>
+    <ul>
+        <li>How we collect and use your personal information</li>
+        <li>How we store and protect your personal information</li>
+        <li>How we share, transfer, or publicly disclose your personal information</li>
+        <li>Third-party services</li>
+    </ul>
+
+    <h2>How We Collect and Use Your Personal Information</h2>
+    <p>Personal information refers to various information recorded electronically or otherwise that can identify a specific natural person or reflect their activities, either alone or in combination with other data.</p>
+    <p>In compliance with applicable laws and regulations, and in accordance with the principles of lawfulness, legitimacy, and necessity, we may collect and use your personal information during your use of our services, including but not limited to your name, email address, phone number, device ID, and location information. All information you provide is submitted by yourself upon registration or obtained from our third-party partners.</p>
+
+    <h2>How We Store and Protect Your Personal Information</h2>
+    <p>As a general rule, we retain your personal information only for as long as necessary to fulfill the purposes for which it was collected, such as maintaining your account to access our services.</p>
+    <p>We protect your personal information using industry-standard security measures and encrypt critical data to prevent unauthorized access, disclosure, use, modification, damage, or loss. We use encryption technologies to ensure data confidentiality and trusted protection mechanisms against malicious attacks.</p>
+    <p>To further strengthen privacy protection, we anonymize data upon collection. Even in our own databases, we do not store associated or plain-text private data.</p>
+
+    <h2>Your Rights (GDPR / CCPA)</h2>
+    <p>Depending on your jurisdiction, you may have the right to:</p>
+    <ul>
+        <li>Access the personal information we hold about you</li>
+        <li>Request correction or deletion of your data</li>
+        <li>Object to certain types of data processing</li>
+    </ul>
+
+    <h2>How We Share, Transfer, or Publicly Disclose Your Personal Information</h2>
+    <p>We use your personal information lawfully and appropriately as needed for the management of our daily business operations and to better serve our legitimate interests. We only use such data internally and do not share it with any third parties.</p>
+    <p>We may share your personal information as required by laws, regulations, or mandatory government authorities. When receiving such disclosure requests, we will require corresponding legal documents, such as subpoenas or investigation orders. We believe in being as transparent as possible within the scope permitted by law.</p>
+    <p>We may share, transfer, or publicly disclose your personal information without your prior consent in the following circumstances:</p>
+    <ul>
+        <li>Directly related to national security or national defense security</li>
+        <li>Directly related to criminal investigation, prosecution, trial, or judgment enforcement</li>
+        <li>Necessary to protect vital interests such as life or property of you or others but difficult to obtain your consent</li>
+        <li>Personal information you have voluntarily disclosed to the public</li>
+        <li>Personal information collected from legally public sources, such as legitimate news reports or government public disclosures</li>
+        <li>Necessary for the performance of a contract required by the data subject</li>
+        <li>Necessary to maintain the safe and stable operation of our products or services, such as identifying and resolving malfunctions</li>
+        <li>Other circumstances required by applicable laws and regulations</li>
+    </ul>
+
+    <h2>Third-Party Services</h2>
+    <p>Please note that this application uses third-party services that have their own privacy policies governing data handling. Below are links to the privacy policies of third-party service providers we use:</p>
+    <ul>
+        <li>Google Analytics</li>
+        <li>Google Play Services</li>
+        <li>Flurry Analytics</li>
+        <li>Mixpanel</li>
+        <li>Google Analytics for Firebase</li>
+        <li>Google AdMob</li>
+        <li>Amplitude</li>
+        <li>Unity Ads</li>
+        <li>AppLovin</li>
+        <li>ironSource</li>
+        <li>Firebase Crashlytics</li>
+        <li>Amazon Web Services (AWS)</li>
+        <li>Sentry</li>
+        <li>Bugsnag</li>
+        <li>Facebook Login</li>
+        <li>Google Sign-In</li>
+        <li>Sign in with Apple</li>
+        <li>Stripe</li>
+        <li>PayPal</li>
+        <li>Google Play Billing</li>
+        <li>Apple In-App Purchases</li>
+        <li>Matomo</li>
+        <li>Clicky</li>
+        <li>Appodeal</li>
+        <li>Fathom Analytics</li>
+        <li>Unity</li>
+        <li>SDKBOX</li>
+        <li>GameAnalytics</li>
+        <li>One Signal</li>
+        <li>Expo</li>
+        <li>Google Maps</li>
+        <li>Mapbox</li>
+    </ul>
+
+    <h2>Changes to This Privacy Policy</h2>
+    <p>We may update this Privacy Policy from time to time. You are advised to review this page periodically for any changes. We will post the updated policy on this page when changes are made.</p>
+    <p>This policy is effective as of April 15, 2026.</p>
+
+    <h2>Contact Us</h2>
+    <p>If you have any questions or concerns regarding this policy, please contact us through customer support or the feedback channels within the application. We will respond and resolve your issues within a reasonable timeframe.</p>
+</body>
+</html>
